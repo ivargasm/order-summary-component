@@ -130,10 +130,10 @@ body {
 
 @media screen and (max-width: 600px) {
 
-    /* .wrapper{
+    .wrapper{
         height: 100vh;
         padding: 0;
-    } */
+    }
 
     .wrapper .card-content{
         width: 90%;
